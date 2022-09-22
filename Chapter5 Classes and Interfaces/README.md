@@ -12,3 +12,10 @@
 - Summary:
   - 该部分的主要内容还位于其他部分, 有Chapter2的部分notebook, 可以参考Chapter2关于字典的Summary部分
   - 此处主要和题目部分一样, 学习了一个`__call__`方法, 即将一个类实例化之后所调用的方法
+
+## Item39: Use @classmethod Polymorphism to construct objects generically
+
+- 本部分主要位于[该notebook中](item39.ipynb)
+- Summary:
+  - 该部分的主要内容还位于其他部分, 有Chapter2的部分notebook, 可以参考Chapter2关于字典的Summary部分
+  - 此处主要和题目部分一样, 学习了一个`__call__`方法, 即将一个类实例化之后所调用的方法
